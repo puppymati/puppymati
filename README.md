@@ -1,52 +1,52 @@
 <div style="max-width: 650px; margin: 0 auto;">
 
-<div align="center">
+## Hey, I'm Matilde
 
-## ✨ Hi there! ✨
+I'm a systems programmer based in Europe, mostly writing Rust and occasionally messing
+with Gleam. I like re-building things from the ground up, hopefully to make them better.
 
-I make stuff you probably don't care about but I'd appreciate if you did
+Currently working on a compositor, a few bootloaders, package managers, and a couple of programming languages.
 
-</div>
+I'm also interested in making a new Linux environment, for which I maintain a Rust target [here](https://doc.rust-lang.org/rustc/platform-support/x86_64-unknown-linux-none.html).
 
-### 🌟 Stuff I'm Proud Of
-
-- [**🌿 Podzol**](https://github.com/morr0ne/podzol) - A very cool package
-  manager for making Minecraft modpacks without going _completely_ insane.
-
-- [**🎶 Verdi**](https://github.com/verdiwm/verdi) - The Verdi project: A futile
-  (but determined!) attempt at writing a good Wayland ecosystem from scratch.
-  Because sometimes you just have to reinvent the wheel... in Rust.
-
-- [**🎬 Comfycast**](https://github.com/comfycast/comfycast) - An easy to use
-  but powerful hosted media center for all your legally owned files. _\*wink
-  wink\*_
-
-- [**🍞 Bread**](https://github.com/bread-bootloader/bread) - An attempt at a
-  UEFI bootloader that doesn't suck. Can't guarantee it won't toast your system
-
-### 🌈 Silly Things
-
-- [**📸 Boop**](https://github.com/morr0ne/boop) - A lossless image format
-  that's way too good considering how simple it is.
-
-- [**🧸 plushie**](https://github.com/plushie-lang/plushie) - A very cutesy
-  programming language you probably shouldn't use.
-
-- [**🎂 Cake**](https://github.com/morr0ne/cake) - Portal credits in your
-  browser! _(Valve please don't sue me :3)_
-
-<div align="center">
-
-### ⭐️ spinny friend goes brrrr ⭐️
-
-![spinning blåhaj](blahaj.gif)
-
-_This blåhaj has spun approximately 127,394 times since you started reading_
+You can find me at [matilde.pet](https://matilde.pet).
 
 ---
 
-<sub>🏳️‍⚧️ Made with sillyness and monster 🏳️‍⚧️</sub>
+### Verdi
 
-</div>
+A Wayland compositor built from scratch, along with the ecosystem of libraries
+powering it. Built under the [verdiwm](https://github.com/verdiwm) org.
+
+- [**verdi**](https://github.com/verdiwm/verdi) - Wayland compositor
+- [**waynest**](https://github.com/verdiwm/waynest) - Core library for Wayland bits
+- [**colpetto**](https://github.com/verdiwm/colpetto) - Async libinput wrapper
+- [**diretto**](https://github.com/verdiwm/diretto) - Interact with the kernel DRM subsystem
+- [**saddle**](https://github.com/verdiwm/saddle) - Async seat management made easy
+
+### tailwags
+
+Systems software and developer tools. Built under the
+[tailwags](https://github.com/tailwags) org.
+
+- [**sap**](https://github.com/tailwags/sap) - A small, simple and sweet argument parser for Rust
+- [**bread**](https://github.com/tailwags/bread) - A modern UEFI bootloader for the Linux kernel
+- [**blossom**](https://github.com/tailwags/blossom) - A delightful package manager for Linux
+- [**puppyutils**](https://github.com/tailwags/puppyutils) - Rust coreutils/util-linux/find-utils reimplementation
+- [**maple**](https://github.com/tailwags/maple) - A new Linux environment written in Rust
+
+### Personal Projects
+
+- [**cake**](https://github.com/puppymati/cake) - The Portal ending screen in your browser
+- [**podzol**](https://github.com/puppymati/podzol) - A modern package manager for Minecraft modpacks
+- [**boop**](https://github.com/puppymati/boop) - A silly image format
+- [**piri**](https://github.com/puppymati/piri) - Firefox PiP persistence across workspaces in niri
+
+### Other Things
+
+- [**comfycast**](https://github.com/comfycast/comfycast) - A simple but powerful self-hosted media center ([comfycast.moe](https://comfycast.moe))
+- [**plushie**](https://github.com/plushie-lang/plushie) - A mostly abandoned programming language
+
+---
 
 </div>
