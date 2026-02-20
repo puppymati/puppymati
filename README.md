@@ -44,7 +44,7 @@ Systems software and developer tools. Built under the
 
 ### Other Things
 
-- [**comfycast**](https://github.com/comfycast/comfycast) - A simple but powerful self-hosted media center ([comfycast.moe](https://comfycast.moe))
+- [**comfycast**](https://github.com/comfycast/comfycast) - A simple but powerful self-hosted media center
 - [**plushie**](https://github.com/plushie-lang/plushie) - A mostly abandoned programming language
 
 ---
