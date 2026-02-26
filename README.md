@@ -1,6 +1,6 @@
 <div style="max-width: 650px; margin: 0 auto;">
 
-## Hey, I'm Matilde
+## Hai, I'm Matilde
 
 I'm a systems programmer based in Europe, mostly writing Rust and occasionally messing
 with Gleam. I like re-building things from the ground up, hopefully to make them better.
@@ -24,10 +24,10 @@ powering it. Built under the [verdiwm](https://github.com/verdiwm) org.
 - [**diretto**](https://github.com/verdiwm/diretto) - Interact with the kernel DRM subsystem
 - [**saddle**](https://github.com/verdiwm/saddle) - Async seat management made easy
 
-### tailwags
+### Tailwags Technology
 
 Systems software and developer tools. Built under the
-[tailwags](https://github.com/tailwags) org.
+[Tailwags Technology](https://github.com/tailwags) org.
 
 - [**sap**](https://github.com/tailwags/sap) - A small, simple and sweet argument parser for Rust
 - [**bread**](https://github.com/tailwags/bread) - A modern UEFI bootloader for the Linux kernel
